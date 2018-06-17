@@ -1,2 +1,4 @@
 # spam-mail
-lol
+
+
+spam someone who irritates you
